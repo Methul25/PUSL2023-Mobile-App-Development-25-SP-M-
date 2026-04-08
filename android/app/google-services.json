@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1049713340574",
+    "firebase_url": "https://furn-app-819aa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "furn-app-819aa",
+    "storage_bucket": "furn-app-819aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049713340574:android:54751ac7d21bd51dbc4b8f",
+        "android_client_info": {
+          "package_name": "com.example.furn_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdm43T1rInuKooY89H9FIY1E4mriLE1Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
